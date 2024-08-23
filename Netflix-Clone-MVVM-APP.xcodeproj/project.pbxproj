@@ -127,10 +127,10 @@
 		AFAD9AC92C7895FE0062DE73 /* Scene */ = {
 			isa = PBXGroup;
 			children = (
+				AFAD9AD82C7898260062DE73 /* UpComingVC */,
+				AFAD9AD92C7898350062DE73 /* SerachVC */,
 				AFAD9ADB2C78984A0062DE73 /* DownloadVC */,
 				AFAD9ADA2C7898400062DE73 /* HomeVC */,
-				AFAD9AD92C7898350062DE73 /* SerachVC */,
-				AFAD9AD82C7898260062DE73 /* UpComingVC */,
 				AFAD9AD62C7898110062DE73 /* MaintabbarController.swift */,
 			);
 			path = Scene;
